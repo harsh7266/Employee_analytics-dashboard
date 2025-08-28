@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Salary,PerformanceScore,YearJoined
+1,Alice,Engineering,90000,4,2019
+2,Bob,Marketing,60000,3,2020
+3,Charlie,Engineering,95000,5,2018
+4,David,HR,50000,2,2021
+5,Eva,Sales,70000,3,2022
+6,Frank,Engineering,88000,4,2017
+7,Grace,Marketing,62000,3,2020
+8,Hannah,Sales,71000,4,2019
+9,Ian,HR,52000,3,2021
+10,Jane,Engineering,97000,5,2016
